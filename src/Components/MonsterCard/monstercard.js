@@ -5,8 +5,10 @@ const MonsterCard = props => {
   //
   return (
     <div className="card-container">
-      <img src={props.monster.img} />
-      <h2>{props.monster.name}</h2>
+      <div className="image">
+        <img src={props.monster.img} />
+      </div>
+      <h3>{props.monster.name}</h3>
       <h5>{props.monster.level}</h5>
     </div>
   );

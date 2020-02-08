@@ -3,8 +3,9 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+  padding: 10vh;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,7 +15,12 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
+  background-image: url("./assets/sky.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
+import logo2 from "./digivice.svg";
 import "./App.css";
 import CardList from "./Components/CardList/CardList";
-import searchBox from "./Components/SearchBar/searchBar";
+import SearchBar from "./Components/SearchBar/searchBar";
 
 class App extends Component {
   state = {
@@ -16,6 +17,10 @@ class App extends Component {
       .then(digimon => this.setState({ monsters: digimon }));
   }
 
+  handleChange = e => {
+    this.setState({ searchList: e.target.value });
+  };
+
   render() {
     console.log(this.state.searchList);
     const { monsters, searchList } = this.state;
@@ -25,12 +30,10 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <searchBox
-            placeholder="search digimon"
-            handleChange={e =>
-              this.setState({ searchList: this.props.search111 })
-            }
+          <img src={logo2} className="App-logo" alt="logo" />
+          <SearchBar
+            placeholder="Search Digimon"
+            handleChange={this.handleChange}
           />
           <CardList className="card-list" monsters={filteredMonsters} />
         </header>

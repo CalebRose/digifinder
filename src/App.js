@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import CardList from "./Components/CardList/CardList";
+import searchBox from "./Components/SearchBar/searchBar";
 
 class App extends Component {
   state = {
@@ -25,10 +26,11 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <input
-            type="search"
-            placeholder="Search Digimon"
-            onChange={e => this.setState({ searchList: e.target.value })}
+          <searchBox
+            placeholder="search digimon"
+            handleChange={e =>
+              this.setState({ searchList: this.props.search111 })
+            }
           />
           <CardList className="card-list" monsters={filteredMonsters} />
         </header>

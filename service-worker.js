@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/digifinder/precache-manifest.6bc3c34ed87badf1933a4056f470d21b.js"
+  "/digifinder/precache-manifest.5981084d25e220bc3324dc84b18dcf30.js"
 );
 
 self.addEventListener('message', (event) => {

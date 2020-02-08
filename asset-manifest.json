@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/digifinder/static/css/main.a71b3e1c.chunk.css",
-    "main.js": "/digifinder/static/js/main.721fef5d.chunk.js",
-    "main.js.map": "/digifinder/static/js/main.721fef5d.chunk.js.map",
+    "main.css": "/digifinder/static/css/main.9d23579d.chunk.css",
+    "main.js": "/digifinder/static/js/main.02d4522f.chunk.js",
+    "main.js.map": "/digifinder/static/js/main.02d4522f.chunk.js.map",
     "runtime-main.js": "/digifinder/static/js/runtime-main.a5f25c85.js",
     "runtime-main.js.map": "/digifinder/static/js/runtime-main.a5f25c85.js.map",
     "static/js/2.79005d19.chunk.js": "/digifinder/static/js/2.79005d19.chunk.js",
     "static/js/2.79005d19.chunk.js.map": "/digifinder/static/js/2.79005d19.chunk.js.map",
     "index.html": "/digifinder/index.html",
-    "precache-manifest.6bc3c34ed87badf1933a4056f470d21b.js": "/digifinder/precache-manifest.6bc3c34ed87badf1933a4056f470d21b.js",
+    "precache-manifest.5981084d25e220bc3324dc84b18dcf30.js": "/digifinder/precache-manifest.5981084d25e220bc3324dc84b18dcf30.js",
     "service-worker.js": "/digifinder/service-worker.js",
-    "static/css/main.a71b3e1c.chunk.css.map": "/digifinder/static/css/main.a71b3e1c.chunk.css.map",
+    "static/css/main.9d23579d.chunk.css.map": "/digifinder/static/css/main.9d23579d.chunk.css.map",
     "static/js/2.79005d19.chunk.js.LICENSE": "/digifinder/static/js/2.79005d19.chunk.js.LICENSE",
     "static/media/digivice.svg": "/digifinder/static/media/digivice.a5cae623.svg",
     "static/media/logo.svg": "/digifinder/static/media/logo.5d5d9eef.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.a5f25c85.js",
     "static/js/2.79005d19.chunk.js",
-    "static/css/main.a71b3e1c.chunk.css",
-    "static/js/main.721fef5d.chunk.js"
+    "static/css/main.9d23579d.chunk.css",
+    "static/js/main.02d4522f.chunk.js"
   ]
 }

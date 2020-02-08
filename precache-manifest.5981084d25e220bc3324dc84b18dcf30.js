@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "015a69604fd10b23f6dcda2578100b99",
+    "revision": "26d521ebb52734b37bd99542eb3e1549",
     "url": "/digifinder/index.html"
   },
   {
-    "revision": "c48e6d9f1e6392d24967",
-    "url": "/digifinder/static/css/main.a71b3e1c.chunk.css"
+    "revision": "9a291d41ab4aa473b94a",
+    "url": "/digifinder/static/css/main.9d23579d.chunk.css"
   },
   {
     "revision": "d75bfb1e28bd3686fc24",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digifinder/static/js/2.79005d19.chunk.js.LICENSE"
   },
   {
-    "revision": "c48e6d9f1e6392d24967",
-    "url": "/digifinder/static/js/main.721fef5d.chunk.js"
+    "revision": "9a291d41ab4aa473b94a",
+    "url": "/digifinder/static/js/main.02d4522f.chunk.js"
   },
   {
     "revision": "5f8f37a6aa107c022df4",

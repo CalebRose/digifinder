@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/digimon-finder/static/css/main.adf7591e.chunk.css",
+    "main.js": "/digimon-finder/static/js/main.cad9be74.chunk.js",
+    "main.js.map": "/digimon-finder/static/js/main.cad9be74.chunk.js.map",
+    "runtime-main.js": "/digimon-finder/static/js/runtime-main.4daf635b.js",
+    "runtime-main.js.map": "/digimon-finder/static/js/runtime-main.4daf635b.js.map",
+    "static/js/2.79005d19.chunk.js": "/digimon-finder/static/js/2.79005d19.chunk.js",
+    "static/js/2.79005d19.chunk.js.map": "/digimon-finder/static/js/2.79005d19.chunk.js.map",
+    "index.html": "/digimon-finder/index.html",
+    "precache-manifest.398c2bcded6d1ad179d6199fa6342883.js": "/digimon-finder/precache-manifest.398c2bcded6d1ad179d6199fa6342883.js",
+    "service-worker.js": "/digimon-finder/service-worker.js",
+    "static/css/main.adf7591e.chunk.css.map": "/digimon-finder/static/css/main.adf7591e.chunk.css.map",
+    "static/js/2.79005d19.chunk.js.LICENSE": "/digimon-finder/static/js/2.79005d19.chunk.js.LICENSE",
+    "static/media/digivice.svg": "/digimon-finder/static/media/digivice.a5cae623.svg",
+    "static/media/logo.svg": "/digimon-finder/static/media/logo.5d5d9eef.svg",
+    "static/media/App.css": "/digimon-finder/static/media/sky.604111cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4daf635b.js",
+    "static/js/2.79005d19.chunk.js",
+    "static/css/main.adf7591e.chunk.css",
+    "static/js/main.cad9be74.chunk.js"
+  ]
+}
